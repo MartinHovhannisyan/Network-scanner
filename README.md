@@ -2,14 +2,6 @@
 
 <p> This code will scan network open ports </p>
 
-
-
-
-
-
-
-
-
 NetVision Network Scanner
 NetVision is a simple Python-based network scanner that allows you to scan for open ports on a specified IP address. It provides basic functionality to help you identify services running on remote hosts..
 
