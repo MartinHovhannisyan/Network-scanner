@@ -3,8 +3,8 @@ import sys
 from termcolor import colored, cprint
 
 def print_help():
-    ex1 = colored('$ python3 NetVision.py 192.168.10.175 21/1000', 'blue')
-    ex2 = colored('$ python3 NetVision.py 192.168.10.175 -p-', 'blue')
+    ex1 = colored('$ python3 NetVision.py 192.168.0.0 21/1000', 'blue')
+    ex2 = colored('$ python3 NetVision.py 192.168.0.0 -p-', 'blue')
     ex3 = colored('Ctrl+C', 'red')
     logo = colored(''' 
                      | \ | | ___| |\ \   / (_)___(_) ___  _ __  
